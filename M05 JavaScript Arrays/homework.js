@@ -97,7 +97,6 @@ function promedioResultadosTest(resultadosTest) {
       var y = x+y
       i++
    }
-   var leng = resultadosTest.length
    var prom = (y/i)
    return prom
 }
